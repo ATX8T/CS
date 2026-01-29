@@ -12,3 +12,6 @@ https://raw.githubusercontent.com/
 
 改为
 https://raw.githubusercontent.com//ATX8T/CS/main/setup_ssh.sh
+
+
+组装： bash <(curl -s https://raw.githubusercontent.com//ATX8T/CS/main/setup_ssh.sh)
